@@ -8,9 +8,9 @@ Here, we parcellated the cerebral cortex into putative areas using local functio
 
 **File Organization**
 
-*./Code contains the code to generate and evaluate parcel performances.<br>
-*./Adult and Infant Parcellations in 32k-fsLR are the parcellations listed in Figure 3A and Table 2.<br>
-*./Final 2-yr Parcellation (Tu 326) is the area parcellation and boundary map for 92 healthy term 2-year-olds in the eLABE study in Figure 3A.<br>
-*./Finer age-binned parcels is the area parcellations generated with smaller age windows using the Baby Connectome Project (BCP) data in Figure 4A.<br>
-*./NetworkCommunityAssignments is the community assignment labels of the Tu 326 areas in Figure 6.<br>
-*./2-yr Parcellation Different Resolutions are the parcellations with different merging thresholds to generate different number of area parcels in Supplementary Figure 3.<br>
+**./Code** contains the code to generate and evaluate parcel performances.<br>
+**./Adult** and Infant Parcellations in 32k-fsLR are the parcellations listed in Figure 3A and Table 2.<br>
+**./Final 2-yr** Parcellation (Tu 326) is the area parcellation and boundary map for 92 healthy term 2-year-olds in the eLABE study in Figure 3A.<br>
+**./Finer age-binned parcels** is the area parcellations generated with smaller age windows using the Baby Connectome Project (BCP) data in Figure 4A.<br>
+**./NetworkCommunityAssignments** is the community assignment labels of the Tu 326 areas in Figure 6.<br>
+**./2-yr Parcellation Different Resolutions** are the parcellations with different merging thresholds to generate different number of area parcels in Supplementary Figure 3.<br>
