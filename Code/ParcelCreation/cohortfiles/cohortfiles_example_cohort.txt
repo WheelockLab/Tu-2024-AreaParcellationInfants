@@ -1,0 +1,1 @@
+MOD1022_Y2_a MOD1022_Y2_a_LR_surf_term_N50_subcort_atlas_32k_fsLR_smooth2p25_cifti24dfp_resid_bpss.dtseries.nii MOD1022_Y2_a.L.midthickness.32k_fs_LR.surf.gii MOD1022_Y2_a.R.midthickness.32k_fs_LR.surf.gii
