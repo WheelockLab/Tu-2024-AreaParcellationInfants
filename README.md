@@ -1,4 +1,4 @@
-This is the repository for paper in submission: "Early Life Neuroimaging: The Generalizability of Cortical Area Parcellations Across Development[https://www.biorxiv.org/content/10.1101/2024.09.09.612056v1.full]"
+This is the repository for paper in submission: "[Early Life Neuroimaging: The Generalizability of Cortical Area Parcellations Across Development](https://www.biorxiv.org/content/10.1101/2024.09.09.612056v1.full)"
 **Contact: Jiaxin Cindy Tu (tu.j@wustl.edu)**
 
 **Abstract**
