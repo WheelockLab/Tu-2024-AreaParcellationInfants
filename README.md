@@ -14,3 +14,6 @@ Here, we parcellated the cerebral cortex into putative areas using local functio
 **./Finer age-binned parcels** is the area parcellations generated with smaller age windows using the Baby Connectome Project (BCP) data in Figure 4A.<br>
 **./NetworkCommunityAssignments** is the community assignment labels of the Tu 326 areas in Figure 6.<br>
 **./2-yr Parcellation Different Resolutions** are the parcellations with different merging thresholds to generate different number of area parcels in Supplementary Figure 3.<br>
+
+[!image](https://github.com/WheelockLab/Tu-2024-AreaParcellationInfants/blob/master/Figures/Adult_and_Infant_Parcellations.jpg)
+[!image](https://github.com/WheelockLab/Tu-2024-AreaParcellationInfants/blob/master/Figures/NetworkAssignments.jpg)
