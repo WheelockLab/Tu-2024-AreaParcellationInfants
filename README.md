@@ -19,5 +19,5 @@ Here, we parcellated the cerebral cortex into putative areas using local functio
 ![image](https://github.com/WheelockLab/Tu-2024-AreaParcellationInfants/blob/master/Figures/NetworkAssignments.jpg)
 
 <video width="600" controls>
-  <source src="https://github.com/WheelockLab/Tu-2024-AreaParcellationInfants/blob/master/NetworkCommunityAssignments/SupplementaryVideo.avi" type="video/mp4">
+  <source src="https://github.com/WheelockLab/Tu-2024-AreaParcellationInfants/blob/master/NetworkCommunityAssignments/SupplementaryVideo.avi" type="video/avi">
 </video>
