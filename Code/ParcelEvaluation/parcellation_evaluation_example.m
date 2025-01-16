@@ -4,11 +4,7 @@ cifti_file = 'example-sub-01.dtseries.nii';
 tmask = 'example-sub-01_tmask.txt';
 
 %% Load geodesic distance matrix
-if calc_sections(4)
-    load('dist_geo_Conte69_uint8.LR.mat','distmat')
-else
-    distmat = [];
-end
+load('dist_geo_Conte69_uint8.LR.mat','distmat')
 
 %% Evaluate Parcellation Validity
 % Load Cifti timeseries
