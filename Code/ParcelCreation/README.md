@@ -9,3 +9,5 @@ To create FC gradients and parcellations,
 1. Create cohortfile and tmasklist in the ./cohortfiles and ./tmasklist folders to store the paths to the subject 
 preprocessed fMRI data, mask for frame censoring and surfaces in 32k-fsLR
 2. Run make_gradients_and_parcels.m
+
+Distance files for Hausdorff's distance are available here: https://zenodo.org/records/14749917

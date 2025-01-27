@@ -1,3 +1,7 @@
+%% load distance (may take a few seconds)
+load('Cifti_surf_distances_xhemisphere_large.mat')
+parcels_dmat = distances(1:59412,1:59412);
+
 %% Load other edges
 edge_WU120 = ft_read_cifti_mod('/data/wheelock/data1/people/Cindy/BCP/ParcelCreationGradientBoundaryMap/GradientMap/washu120/washu120_avg_corrofcorr_allgrad_LR_smooth2.55_wateredge_avg.dtseries.nii');
 edge_BCP_177 = ft_read_cifti_mod('/data/wheelock/data1/people/Cindy/BCP/ParcelCreationGradientBoundaryMap/GradientMap/BCP_Dec2020_N177_2.55sigma_FDpt2_removeoutlierwholebrain_outliercalculatedonlowFDframes/BCP_Dec2020_N177_avg_corrofcorr_allgrad_LR_smooth2.55_wateredge_avg.dtseries.nii');
